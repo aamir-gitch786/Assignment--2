@@ -15,7 +15,7 @@ int main()
     if(n%2==1)
     {
         printf("Position of first 1 in LSB is %d",counter);
-        return 0;
+        break;
     }
     else
     {
